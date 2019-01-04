@@ -1,0 +1,32 @@
+{
+  "name": "nobita-config",
+  "version": "0.0.1",
+  "description": "nobita-config",
+  "main": "lib/nobita-config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nobita-require": "0.0.2",
+    "lodash": "4.17.10"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/iamtang/nobita.git"
+  },
+  "keywords": [
+    "koa",
+    "nobita",
+    "nobita-config"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamtang/nobita/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
