@@ -1,6 +1,6 @@
 {
   "name": "nobita-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-config",
   "main": "lib/nobita-config.js",
   "dependencies": {},
